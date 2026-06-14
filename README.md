@@ -6,5 +6,5 @@
 as well as - standard + non-standard lua  
 | arg, coroutine, bit (bit32), debug, io, math, os, package, string, table
 
-While creating a game using LOVE; desired to note things down. Figured I should share them for anyone.  
+While creating a game using LOVE; desired to note things down. Figured they should be shared for everyone.  
 * Some custom general scripts later on.
